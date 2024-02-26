@@ -1,1 +1,3 @@
 # HeimoAI
+So I have friend called "Heimo" who swears a lot in Finnish, and I taught it would be funny to make a program (but not AI like the title says) that talks pretty much like him. And here it is...
+(Note: feel free to improve of change the code or the dictionary, and tell tell me how could I improve it: I'm still beginner and my code is far from perfect, so if you have any improvement ideas, please contact me!)
