@@ -88,7 +88,7 @@ for num in range(random.randint(75, 125) + 1):
 
             if not commaInCurrentSentence:
                 print("\b, ", end="", flush=True)
-                wordsInSentence = random.randint(3, 4)
+                wordsInSentence = random.randint(4, 5)
                 commaInCurrentSentence = True
 
             # However, if there is already a comma at the sentence,
